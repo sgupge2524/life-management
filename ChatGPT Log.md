@@ -12,6 +12,3 @@ https://chatgpt.com/c/69a91e76-b9ec-83a6-afd9-78643ab3db6c
 
 ## 悪いプロンプトの検証 + 良いプロンプトの検証 + レポート全体の構成検証
 https://chatgpt.com/c/69a91fcb-2bfc-83a2-b8ac-0a245f1740e3
-
-## 良いプロンプトの検証
-https://chatgpt.com/c/69a92595-6134-83a9-af9c-614a42565d19
