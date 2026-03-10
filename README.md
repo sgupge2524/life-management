@@ -6,7 +6,7 @@
 - [ ] アルバイト課題
 
 ### Job Hunting
-- [ ] バルテスES
+- [x] バルテスES
 - [ ] KENTEM ES
 - [ ] INTLOOP 技術テスト
 
