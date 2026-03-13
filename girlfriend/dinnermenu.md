@@ -11,7 +11,7 @@ https://www.kurashiru.com/recipes/505bbb5e-8186-4448-8abe-70780886e980
 
 ## `3` 魚料理：サーモンのムニエル レモンバターソース
 https://www.kurashiru.com/recipes/e966b3a8-c9a1-41c3-9b99-bd8212d14567
-- [ ]「アトランティックサーモン」や「キングサーモン」2切れ
+- [ ] 「アトランティックサーモン」や「キングサーモン」2切れ
       
 ## `4` 肉料理：牛ステーキ 赤ワインソース
 https://cookpad.com/jp/recipes/22099519
